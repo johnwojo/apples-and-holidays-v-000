@@ -72,3 +72,4 @@ if supply == "BBQ" bbq_days << holiday
 end
 end
 end
+do
